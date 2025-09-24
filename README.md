@@ -54,10 +54,13 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="783" height="412" alt="Screenshot 2025-09-24 203445" src="https://github.com/user-attachments/assets/eaf121ad-5912-4b23-88e3-3284e05358fc" />
 
 ---
 MANUAL CALCULATIONS
+
+![factorial cals](https://github.com/user-attachments/assets/0b179ebb-e9f9-4976-953b-46db388f1c49)
+
 
 ---
 
